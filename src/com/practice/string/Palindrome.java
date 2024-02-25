@@ -13,5 +13,4 @@ package com.practice.string;
 			result= true;
 			System.out.println(result);
  	}
-
 }
