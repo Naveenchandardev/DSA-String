@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/ScannerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/ScannerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.PrimeNumber.executor": "Run",
+    "Application.PrimeNumber.executor": "Debug",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -45,7 +43,14 @@
     "last_opened_file_path": "C:/Users/VE/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinaryCheck">
+    <configuration name="BinaryCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryCheck" />
+      <module name="DSA-String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.PrimeNumber" />
       <module name="DSA-String" />
@@ -61,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryCheck" />
         <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
@@ -92,9 +98,19 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/PrimeNumber.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
