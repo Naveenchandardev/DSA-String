@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/BinaryCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/BinaryCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Sorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/BinaryDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinaryCheck.executor": "Debug",
+    "Application.CharacterCount.executor": "Run",
     "Application.PrimeNumber.executor": "Debug",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
@@ -50,7 +47,7 @@
     "last_opened_file_path": "C:/Users/VE/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CharacterCount">
+  <component name="RunManager" selected="Application.BinaryDigit">
     <configuration name="BinaryCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryCheck" />
       <module name="DSA-String" />
@@ -58,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.CharacterCount" />
+    <configuration name="BinaryDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.BinaryDigit" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.PrimeNumber" />
+    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.CharacterCount" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryDigit" />
         <item itemvalue="Application.CharacterCount" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.BinaryCheck" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -179,15 +176,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Sorting.java</url>
-          <line>7</line>
-          <properties class="com.practice.string.Sorting" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
