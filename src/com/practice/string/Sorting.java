@@ -8,13 +8,13 @@ public class Sorting {
 	public static void main(String[] args) {
 		// METHOD 1: NORMAL METHOD: it accepts both special characters and capital
 		// letters;
-		String input = "mechanical.Engineering";
+		String input = "chandar";
 		char chars[] = input.toCharArray();
-		Arrays.sort(chars);
+	//	Arrays.sort(chars);
 		System.out.println(chars);
 		// METHOD 2: USING ASCII METHOD; its only accepts alphabetic words; not accepted
 		// special character and capital letters
-		asciiMethod("mechanicalengineering");
+		asciiMethod("chandar");
 	}
 
 	static void asciiMethod(String input) {
