@@ -4,20 +4,15 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class SubString {
+public class UniqueCharacters {
 	public static void main(String[] args) {
 		String input = "Hello World!";
 		Set<Character> uniqueChars = new HashSet<>();
-
-		// Iterate through each character in the input string
 		for (char x : input.toCharArray()) {
-			// Add the character to the set if it's not already present
 			if (!Character.isWhitespace(x)) {
 				uniqueChars.add(Character.toLowerCase(x));
 			}
 		}
-
-		// Print the unique characters
 		System.out.println("Unique Characters:");
 		for (char c : uniqueChars) {
 			System.out.print(c + " ");
