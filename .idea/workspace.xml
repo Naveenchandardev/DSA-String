@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/SubString.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,23 +29,23 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinaryCheck.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BinaryDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Java projects/DSA-String&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryCheck.executor": "Debug",
+    "Application.BinaryDigit.executor": "Run",
+    "Application.CharacterCount.executor": "Run",
+    "Application.PrimeNumber.executor": "Debug",
+    "Application.Rotation.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VE/Java projects/DSA-Array"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.SubString">
     <configuration name="BinaryCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryCheck" />
@@ -136,50 +133,5 @@
       <updated>1708830411297</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Sorting.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Sorting.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Sorting.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BinaryCheck.java</url>
-          <line>16</line>
-          <properties class="BinaryCheck" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
