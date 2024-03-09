@@ -1,3 +1,5 @@
+package com.practice.string;
+
 import java.util.Scanner;
 
 public class BinaryCheck {
