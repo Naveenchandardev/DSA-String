@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/HackerRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/ZohoQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/BinaryCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,35 +37,24 @@
     "Application.BinaryCheck.executor": "Debug",
     "Application.BinaryDigit.executor": "Run",
     "Application.CharacterCount.executor": "Run",
+    "Application.HackerRank.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.SubString.executor": "Run",
+    "Application.ZohoQuestion.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Test"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HackerRank">
+  <component name="RunManager" selected="Application.ZohoQuestion">
     <configuration name="BinaryDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.BinaryDigit" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.CharacterCount" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZohoQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ZohoQuestion" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZohoQuestion" />
         <item itemvalue="Application.HackerRank" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.BinaryDigit" />
-        <item itemvalue="Application.CharacterCount" />
       </list>
     </recent_temporary>
   </component>
