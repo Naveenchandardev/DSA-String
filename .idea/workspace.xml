@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/ZohoQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/ZohoQuestion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,29 +32,30 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinaryCheck.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BinaryDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HackerRank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZohoQuestion.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/SpringBootProject-1-Customer-master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryCheck.executor": "Debug",
+    "Application.BinaryDigit.executor": "Run",
+    "Application.CharacterCount.executor": "Run",
+    "Application.HackerRank.executor": "Run",
+    "Application.LongestSubstring.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Rotation.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.ZohoQuestion.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
-}</component>
-  <component name="RunManager" selected="Application.SubString">
-    <configuration name="BinaryDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.BinaryDigit" />
+}]]></component>
+  <component name="RunManager" selected="Application.LongestSubstring">
+    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.HackerRank" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.HackerRank" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.ZohoQuestion" />
         <item itemvalue="Application.HackerRank" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.BinaryDigit" />
       </list>
     </recent_temporary>
   </component>
