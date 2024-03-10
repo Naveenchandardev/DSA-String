@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/FindDay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,11 @@
     "Application.BinaryCheck.executor": "Debug",
     "Application.BinaryDigit.executor": "Run",
     "Application.CharacterCount.executor": "Run",
+    "Application.FindDay.executor": "Run",
+    "Application.FineDay.executor": "Run",
     "Application.HackerRank.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
+    "Application.LongestSubstring.executor": "Debug",
+    "Application.PrimeNumber.executor": "Debug",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.Sorting.executor": "Run",
@@ -53,9 +55,9 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestSubstring">
-    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.HackerRank" />
+  <component name="RunManager" selected="Application.FindDay">
+    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDay" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.ZohoQuestion" />
-        <item itemvalue="Application.HackerRank" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
