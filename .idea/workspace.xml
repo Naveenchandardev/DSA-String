@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/pattern/Number_Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,7 @@
     "Application.HackerRank.executor": "Run",
     "Application.HackerRank_2.executor": "Run",
     "Application.LongestSubstring.executor": "Debug",
+    "Application.Number_Patterns.executor": "Run",
     "Application.PrimeNumber.executor": "Debug",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
@@ -56,7 +60,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Test"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Triangles">
+  <component name="RunManager" selected="Application.Number_Patterns">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.Anagram" />
       <module name="DSA-String" />
@@ -83,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
+    <configuration name="HackerRank_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.HackerRank_2" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerRank_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.HackerRank_2" />
+    <configuration name="Number_Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Number_Patterns" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_Patterns" />
         <item itemvalue="Application.Triangles" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.HackerRank_2" />
-        <item itemvalue="Application.FindDay" />
       </list>
     </recent_temporary>
   </component>
@@ -175,12 +179,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
-          <line>22</line>
+          <line>23</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
-          <line>33</line>
+          <line>34</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
