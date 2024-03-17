@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class CharacterCount {
     public static void main(String[] args) {
-        //print howmany times characters found;
+        //print how many times characters found;
         String str = "Naveenchandar";
         Map<Character, Integer> charCount = countCharacters(str);
         System.out.println("Character count:");

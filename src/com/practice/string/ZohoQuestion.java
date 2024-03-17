@@ -2,7 +2,7 @@ package com.practice.string;
 
 public class ZohoQuestion {
     public static void main(String[] args) {
-        //input: a2b4c3d5 ; output :
+        //input: a2b4c3d5 ; output :aabbbbcccddddd
         String a ="a2b4c3d5";
         StringBuffer output = new StringBuffer();
         int index;

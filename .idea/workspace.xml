@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Zoho_Interview_question.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Zoho_Interview_question.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Triangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Triangles.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "Application.Anagram.executor": "Run",
     "Application.Basic.executor": "Debug",
     "Application.BinaryCheck.executor": "Debug",
-    "Application.BinaryDigit.executor": "Run",
+    "Application.BinaryDigit.executor": "Debug",
     "Application.CharacterCount.executor": "Run",
     "Application.FindDay.executor": "Run",
     "Application.FineDay.executor": "Run",
@@ -53,6 +53,7 @@
     "Application.Sorting.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.Triangles.executor": "Run",
+    "Application.ZOHO_CountString.executor": "Run",
     "Application.ZohoQuestion.executor": "Run",
     "Application.Zoho_Interview_question.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -60,16 +61,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zoho_Interview_question">
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic" />
+  <component name="RunManager" selected="Application.ZohoQuestion">
+    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Number_Patterns" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZOHO_CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ZOHO_CountString" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZohoQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.ZohoQuestion" />
       <module name="DSA-String" />
@@ -116,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoho_Interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Zoho_Interview_question" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zoho_Interview_question" />
-        <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.Triangles" />
-        <item itemvalue="Application.Number_Patterns" />
         <item itemvalue="Application.ZohoQuestion" />
+        <item itemvalue="Application.ZOHO_CountString" />
+        <item itemvalue="Application.Triangles" />
+        <item itemvalue="Application.FindDay" />
+        <item itemvalue="Application.LongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +211,21 @@
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java</url>
           <line>21</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
