@@ -9,13 +9,13 @@ public class Number_Patterns {
         System.out.println("up_down_triangle");
         for (int i = 1; i <= a; i++) {
             for (int j = 0; j < a-i; j++) {
-                System.out.print(" ");
+                System.out.print("  ");
             }
             for (int j = i; j >= 1; j--) {
-                System.out.print(j);
+                System.out.print(j+" ");
             }
             for (int j = 2; j <= i; j++) {
-                System.out.print(j);
+                System.out.print(j+" ");
             }
             System.out.println();
         }
