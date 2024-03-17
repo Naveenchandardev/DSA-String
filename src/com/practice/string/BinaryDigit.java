@@ -12,7 +12,9 @@ public class BinaryDigit {
     private static boolean isBinary(int num) {
         while(num!=0){
             int digit = num%10;
-            if(digit!=0 && digit!=1)return false;num/=10;
+            if(digit!=0 && digit!=1)
+                return false;
+            num/=10;
         }return true;
 
     }
