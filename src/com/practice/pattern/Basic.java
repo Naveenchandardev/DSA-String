@@ -11,8 +11,8 @@ public class Basic {
         left_top_pattern_2(a);
     }
 
-    private static void right_bottom_pattern(int a) {
-        System.out.println("right_bottom_pattern");
+    private static void right_top_pattern(int a) {
+        System.out.println("right_top_pattern");
         for (int i = 1; i <= a; i++) {
             for (int k = 1; k <i; k++) {
                 System.out.print("  ");
@@ -25,8 +25,8 @@ public class Basic {
         }
     }
 
-    private static void right_top_pattern(int a) {
-        System.out.println("right_top_pattern");
+    private static void right_bottom_pattern(int a) {
+        System.out.println("right_bottom_pattern");
         for (int i = 1; i <= a; i++) {
             for (int k = i; k <a; k++) {
                 System.out.print("  ");

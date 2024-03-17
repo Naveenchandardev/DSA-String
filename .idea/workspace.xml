@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Number_Patterns.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Number_Patterns.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Number_Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Number_Patterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,8 +129,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.Number_Patterns" />
         <item itemvalue="Application.Triangles" />
+        <item itemvalue="Application.Number_Patterns" />
         <item itemvalue="Application.ZohoQuestion" />
         <item itemvalue="Application.Large_Small_Substrings" />
       </list>
@@ -193,18 +190,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
-          <line>38</line>
+          <line>53</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
-          <line>49</line>
+          <line>64</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="10" />
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
