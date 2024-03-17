@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Zoho_Interview_question.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Zoho_Interview_question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Application.SubString.executor": "Run",
     "Application.Triangles.executor": "Run",
     "Application.ZohoQuestion.executor": "Run",
+    "Application.Zoho_Interview_question.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -198,6 +200,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
           <line>17</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Zoho_Interview_question.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>

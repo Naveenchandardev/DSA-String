@@ -15,7 +15,6 @@ public class Zoho_Interview_question {
     }
 
     private static void print_pattern(int a) {
-        int z =0;
         for (int i = 1; i <= a; i++) {
             for (int j = 0; j < a-i; j++) {
                 	System.out.print("  ");
