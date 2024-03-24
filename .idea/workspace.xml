@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Triangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Triangles.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     "Application.Sorting.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.Triangles.executor": "Run",
-    "Application.ZOHO_CountString.executor": "Run",
+    "Application.ZOHO_CountString.executor": "Debug",
     "Application.ZohoQuestion.executor": "Run",
     "Application.Zoho_Interview_question.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -61,10 +59,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZohoQuestion">
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
       <module name="DSA-String" />
@@ -78,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverseInteger" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZohoQuestion" />
+        <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ZOHO_CountString" />
+        <item itemvalue="Application.ZohoQuestion" />
         <item itemvalue="Application.Triangles" />
         <item itemvalue="Application.FindDay" />
-        <item itemvalue="Application.LongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +224,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
           <line>10</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
