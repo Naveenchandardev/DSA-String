@@ -4,13 +4,12 @@ package com.practice.string;
 
 	public static void main(String[] args) {
 		String input = "mom";
-		String res ="";
+		StringBuilder res = new StringBuilder();
 		Boolean result= false;
 		for(int i=input.length()-1; i>=0;i--) {
-			res = res +input.charAt(i);
+			res.append(input.charAt(i));
 		}
-		if(res.equals(input))
-			result= true;
-			System.out.println(result);
+		if(res.toString().equals(input))result= true;
+		System.out.println(result);
  	}
 }
