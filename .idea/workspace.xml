@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/findLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +58,16 @@
     "Application.ZOHO_CountString.executor": "Debug",
     "Application.ZohoQuestion.executor": "Run",
     "Application.Zoho_Interview_question.executor": "Debug",
+    "Application.findLength.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Array_clone/DSA-Array"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScannerClass">
+  <component name="RunManager" selected="Application.findLength">
     <configuration name="Anagram_short_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.Anagram_short_method" />
       <module name="DSA-String" />
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoho_Interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Zoho_Interview_question" />
+    <configuration name="findLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.findLength" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findLength" />
         <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.FindDay" />
         <item itemvalue="Application.Anagram_short_method" />
-        <item itemvalue="Application.Zoho_Interview_question" />
       </list>
     </recent_temporary>
   </component>
