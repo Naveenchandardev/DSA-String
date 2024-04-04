@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/findLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/Isomorphic_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Application.FineDay.executor": "Run",
     "Application.HackerRank.executor": "Run",
     "Application.HackerRank_2.executor": "Run",
+    "Application.Isomorphic_string.executor": "Run",
     "Application.Large_Small_Substrings.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.Number_Patterns.executor": "Run",
@@ -64,16 +65,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.findLength">
-    <configuration name="Anagram_short_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Anagram_short_method" />
+  <component name="RunManager" selected="Application.Isomorphic_string">
+    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.FindDay" />
+    <configuration name="Isomorphic_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.Isomorphic_string" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +100,7 @@
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,7 +113,7 @@
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,7 +126,7 @@
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Isomorphic_string" />
         <item itemvalue="Application.findLength" />
         <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.FindDay" />
-        <item itemvalue="Application.Anagram_short_method" />
       </list>
     </recent_temporary>
   </component>
