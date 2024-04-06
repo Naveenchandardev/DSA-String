@@ -9,7 +9,9 @@ public class Isomorphic_string {
         System.out.println("result is :: "+findres(s1).equals(findres(b)));
     }
     private static String  findres(String s1) {
-        Map<Character,Integer> maps = new HashMap<>();int count =0;StringBuffer s3 = new StringBuffer();
+        Map<Character,Integer> maps = new HashMap<>();
+        int count =0;
+        StringBuffer s3 = new StringBuffer();
         for(char ch : s1.toCharArray()){
             if (!maps.containsKey(ch)){
                 count++;
