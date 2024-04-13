@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/ValidPranthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/FirstNonRepeatingChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     "Application.CharacterCount.executor": "Run",
     "Application.FindDay.executor": "Run",
     "Application.FineDay.executor": "Run",
+    "Application.FirstNonRepeatingChar.executor": "Run",
     "Application.HackerRank.executor": "Run",
     "Application.HackerRank_2.executor": "Run",
     "Application.Integer_To_Roman.executor": "Debug",
@@ -69,10 +70,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/springboot-hibernate-jpa"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Test"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidPranthesis">
+  <component name="RunManager" selected="Application.FirstNonRepeatingChar">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic" />
       <module name="DSA-String" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basic_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic_triangle" />
+    <configuration name="FirstNonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.FirstNonRepeatingChar" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstNonRepeatingChar" />
         <item itemvalue="Application.ValidPranthesis" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.Integer_To_Roman" />
         <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.Basic_triangle" />
       </list>
     </recent_temporary>
   </component>
