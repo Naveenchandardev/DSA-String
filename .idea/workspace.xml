@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Basic.class" afterDir="false" />
-    </list>
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
     "Application.FineDay.executor": "Run",
     "Application.HackerRank.executor": "Run",
     "Application.HackerRank_2.executor": "Run",
-    "Application.Integer_To_Roman.executor": "Run",
+    "Application.Integer_To_Roman.executor": "Debug",
     "Application.Isomorphic_string.executor": "Run",
     "Application.Large_Small_Substrings.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
@@ -244,6 +240,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
           <line>33</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
