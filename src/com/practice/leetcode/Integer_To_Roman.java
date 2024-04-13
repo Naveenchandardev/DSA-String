@@ -1,0 +1,22 @@
+package com.practice.leetcode;
+
+public class Integer_To_Roman {
+    public static void main(String[] args) {
+        int num = 120; // Your integer input
+        String roman = intToRoman(num);
+        System.out.println("Roman numeral for " + num + " is: " + roman);
+    }
+    public static String intToRoman(int num) {
+        int[] values = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
+        String[] symbols = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
+        StringBuilder sb = new StringBuilder();
+        // Loop through each value and append the corresponding symbol
+        for (int i = 0; i < values.length; i++) {
+            while (num >= values[i]) {
+                num -= values[i];
+                sb.append(symbols[i]);
+            }
+        }
+        return sb.toString();
+    }
+}
