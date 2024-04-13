@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/ValidPranthesis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +52,14 @@
     "Application.Palindrome.executor": "Run",
     "Application.PrimeNumber.executor": "Debug",
     "Application.ReverseInteger.executor": "Run",
+    "Application.RomanToInteger.executor": "Debug",
     "Application.Rotation.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.Swap_2_pointer.executor": "Run",
     "Application.Triangles.executor": "Run",
+    "Application.ValidPranthesis.executor": "Run",
     "Application.ZOHO_CountString.executor": "Debug",
     "Application.ZohoQuestion.executor": "Run",
     "Application.Zoho_Interview_question.executor": "Debug",
@@ -70,7 +72,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/springboot-hibernate-jpa"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RomanToInteger">
+  <component name="RunManager" selected="Application.ValidPranthesis">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic" />
       <module name="DSA-String" />
@@ -123,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap_2_pointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Swap_2_pointer" />
+    <configuration name="ValidPranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.ValidPranthesis" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPranthesis" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.Integer_To_Roman" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.Basic_triangle" />
-        <item itemvalue="Application.Swap_2_pointer" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +269,11 @@
           <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
           <line>31</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
