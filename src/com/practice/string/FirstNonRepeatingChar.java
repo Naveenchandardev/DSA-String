@@ -2,6 +2,7 @@ package com.practice.string;
 
 public class FirstNonRepeatingChar {
     public static void main(String[] args) {
+        //FIND first non repeating char;
         String a="zsdczxs";
         System.out.println(findss(a));
     }
