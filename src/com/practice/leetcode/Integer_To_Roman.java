@@ -2,7 +2,7 @@ package com.practice.leetcode;
 
 public class Integer_To_Roman {
     public static void main(String[] args) {
-        int num = 120;
+        int num = 1000;
         String roman = intToRoman(num);
         System.out.println("Roman numeral for " + num + " is: " + roman);
     }
@@ -14,6 +14,7 @@ public class Integer_To_Roman {
             while (num >= values[i]) {
                 num -= values[i];
                 result.append(symbols[i]);
+                if(num==0)return result.toString();
             }
         }
         return result.toString();

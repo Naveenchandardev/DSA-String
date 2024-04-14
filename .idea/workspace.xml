@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Basic_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Basic_triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Basic_triangle">
+  <component name="RunManager" selected="Application.Integer_To_Roman">
     <configuration name="Basic_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic_triangle" />
       <module name="DSA-String" />
@@ -117,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.FirstNonRepeatingChar" />
+    <configuration name="Integer_To_Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.Integer_To_Roman" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_To_Roman" />
         <item itemvalue="Application.Basic_triangle" />
         <item itemvalue="Application.CornerTriangles" />
         <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.Triangles" />
-        <item itemvalue="Application.FirstNonRepeatingChar" />
       </list>
     </recent_temporary>
   </component>
@@ -246,16 +243,6 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
           <line>22</line>
           <option name="timeStamp" value="31" />
@@ -274,6 +261,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
           <line>12</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
