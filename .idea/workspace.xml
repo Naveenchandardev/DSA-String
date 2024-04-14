@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/pattern/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/pattern/Basic_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/pattern/Basic_triangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,49 +34,76 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Anagram_short_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryCheck.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BinaryDigit.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CharacterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FineDay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HackerRank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HackerRank_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Integer_To_Roman.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Isomorphic_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Large_Small_Substrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number_Patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RomanToInteger.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_2_pointer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidPranthesis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZOHO_CountString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ZohoQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zoho_Interview_question.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.findLength.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/Test&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Anagram_short_method.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Basic_triangle.executor": "Run",
+    "Application.BinaryCheck.executor": "Debug",
+    "Application.BinaryDigit.executor": "Debug",
+    "Application.CharacterCount.executor": "Run",
+    "Application.Diamond.executor": "Run",
+    "Application.FindDay.executor": "Run",
+    "Application.FineDay.executor": "Run",
+    "Application.FirstNonRepeatingChar.executor": "Run",
+    "Application.HackerRank.executor": "Run",
+    "Application.HackerRank_2.executor": "Run",
+    "Application.Integer_To_Roman.executor": "Debug",
+    "Application.Isomorphic_string.executor": "Run",
+    "Application.Large_Small_Substrings.executor": "Run",
+    "Application.LongestSubstring.executor": "Run",
+    "Application.Number_Patterns.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumber.executor": "Debug",
+    "Application.ReverseInteger.executor": "Run",
+    "Application.RomanToInteger.executor": "Debug",
+    "Application.Rotation.executor": "Run",
+    "Application.ScannerClass.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.Swap_2_pointer.executor": "Run",
+    "Application.Triangles.executor": "Run",
+    "Application.ValidPranthesis.executor": "Run",
+    "Application.ZOHO_CountString.executor": "Debug",
+    "Application.ZohoQuestion.executor": "Run",
+    "Application.Zoho_Interview_question.executor": "Debug",
+    "Application.findLength.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
-}</component>
-  <component name="RunManager" selected="Application.Diamond">
+}]]></component>
+  <component name="RunManager" selected="Application.Basic_triangle">
+    <configuration name="Basic_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Basic_triangle" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CornerTriangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.CornerTriangles" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Diamond" />
       <module name="DSA-String" />
@@ -98,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.RomanToInteger" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.pattern.Triangles" />
       <module name="DSA-String" />
@@ -124,26 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPranthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.ValidPranthesis" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Basic_triangle" />
+        <item itemvalue="Application.CornerTriangles" />
         <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.Triangles" />
         <item itemvalue="Application.FirstNonRepeatingChar" />
-        <item itemvalue="Application.ValidPranthesis" />
-        <item itemvalue="Application.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -201,13 +207,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
-          <line>14</line>
+          <line>7</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
@@ -235,12 +236,12 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
           <line>29</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
           <line>33</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -275,9 +276,9 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Basic.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
           <line>3</line>
-          <properties class="com.practice.pattern.Basic" method="main">
+          <properties class="com.practice.pattern.CornerTriangles" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

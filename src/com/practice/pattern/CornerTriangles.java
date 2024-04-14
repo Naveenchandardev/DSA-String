@@ -1,6 +1,6 @@
 package com.practice.pattern;
 
-public class Basic {
+public class CornerTriangles {
     public static void main(String[] args) {
         int a = 5;
         basic(a); // print 5 rows & 5 columns
