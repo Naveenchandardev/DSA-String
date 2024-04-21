@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/PhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/FindDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/FindDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/FirstNonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/FirstNonRepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/InsertCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/InsertCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Large_Small_Substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/Large_Small_Substrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/UpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/UpperCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,7 @@
     "Application.Triangles.executor": "Run",
     "Application.UpperCase.executor": "Run",
     "Application.ValidPranthesis.executor": "Run",
-    "Application.ZOHO_CountString.executor": "Debug",
+    "Application.ZOHO_CountString.executor": "Run",
     "Application.ZohoQuestion.executor": "Run",
     "Application.Zoho_Interview_question.executor": "Debug",
     "Application.findLength.executor": "Run",
@@ -85,7 +77,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseInteger">
+  <component name="RunManager" selected="Application.ZOHO_CountString">
     <configuration name="InsertCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.InsertCharacter" />
       <module name="DSA-String" />
@@ -112,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.RomanToInteger" />
+    <configuration name="UpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.UpperCase" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.UpperCase" />
+    <configuration name="ZOHO_CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ZOHO_CountString" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZOHO_CountString" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.findLength" />
         <item itemvalue="Application.UpperCase" />
         <item itemvalue="Application.InsertCharacter" />
-        <item itemvalue="Application.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
