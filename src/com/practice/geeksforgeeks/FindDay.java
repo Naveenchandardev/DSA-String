@@ -1,4 +1,4 @@
-package com.practice.string;
+package com.practice.geeksforgeeks;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

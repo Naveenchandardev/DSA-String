@@ -1,10 +1,10 @@
-package com.practice.string;
+package com.practice.geeksforgeeks;
 
 import java.util.Arrays;
 
 public class InsertCharacter {
     public static void main(String[] args) {
-        String str="geeksforgeek";
+        String str="geeksforgeeks";
         int []a={1,5,7};
         String res = solution(str,a);
         System.out.println(res);

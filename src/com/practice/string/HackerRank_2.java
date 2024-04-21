@@ -15,7 +15,6 @@ public class HackerRank_2 {
         long  input = a.nextLong();
         for(int i=0; i<input;i++){
             try {
-                //	System.out.println(a.nextLong());
                 b = a.nextLong();
                 output.setLength(0);
                 output = new StringBuffer(b+" can be fitted in: \n");

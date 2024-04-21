@@ -1,4 +1,4 @@
-package com.practice.string;
+package com.practice.geeksforgeeks;
 import java.io.*;
 import java.util.*;
 public class Large_Small_Substrings {

@@ -1,4 +1,4 @@
-package com.practice.string;
+package com.practice.geeksforgeeks;
 
   public class Palindrome {
 
