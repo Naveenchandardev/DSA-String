@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/Alphabet_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Alphabet_Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Alphabet_Check.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "Application.BinaryCheck.executor": "Debug",
     "Application.BinaryDigit.executor": "Debug",
     "Application.CharacterCount.executor": "Run",
+    "Application.ConsecutiveSubstring.executor": "Run",
     "Application.Diamond.executor": "Run",
     "Application.FindDay.executor": "Run",
     "Application.FineDay.executor": "Run",
@@ -54,6 +56,7 @@
     "Application.Large_Small_Substrings.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.LongestSubstring_2.executor": "Debug",
+    "Application.LongestSubstring_3.executor": "Run",
     "Application.Number_Patterns.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Pangram.executor": "Run",
@@ -78,10 +81,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/SpringBootProject-1-Customer-master",
+    "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Alphabet_Check">
+  <component name="RunManager" selected="Application.ConsecutiveSubstring">
     <configuration name="Alphabet_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.Alphabet_Check" />
       <module name="DSA-String" />
@@ -95,8 +99,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Pangram" />
+    <configuration name="Anagram_short_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Anagram_short_method" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsecutiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ConsecutiveSubstring" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstring_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring_3" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -121,39 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverseInteger" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZOHO_CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.ZOHO_CountString" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsecutiveSubstring" />
+        <item itemvalue="Application.LongestSubstring_3" />
+        <item itemvalue="Application.Anagram_short_method" />
         <item itemvalue="Application.Alphabet_Check" />
         <item itemvalue="Application.Pangram_2" />
-        <item itemvalue="Application.Pangram" />
-        <item itemvalue="Application.ZOHO_CountString" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +282,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
           <line>27</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
