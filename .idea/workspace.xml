@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/string/RotateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc6977cdb5392680f75b02b0e9f3745adacc8c82" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc6977cdb5392680f75b02b0e9f3745adacc8c82" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa387702e9f2f3754a75c2804e766459f63472d7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa387702e9f2f3754a75c2804e766459f63472d7" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,7 @@
     "Application.BinaryDigit.executor": "Debug",
     "Application.CharacterCount.executor": "Run",
     "Application.ConsecutiveSubstring.executor": "Run",
+    "Application.CornerTriangles.executor": "Run",
     "Application.Diamond.executor": "Run",
     "Application.FindDay.executor": "Run",
     "Application.FineDay.executor": "Run",
@@ -88,20 +85,7 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RotateString">
-    <configuration name="Alphabet_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Alphabet_Check" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CornerTriangles">
     <configuration name="Anagram_short_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.Anagram_short_method" />
       <module name="DSA-String" />
@@ -121,6 +105,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CornerTriangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.CornerTriangles" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CornerTriangles" />
         <item itemvalue="Application.RotateString" />
         <item itemvalue="Application.ConsecutiveSubstring" />
         <item itemvalue="Application.LongestSubstring_3" />
         <item itemvalue="Application.Anagram_short_method" />
-        <item itemvalue="Application.Alphabet_Check" />
       </list>
     </recent_temporary>
   </component>
@@ -295,11 +292,6 @@
           <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
           <line>13</line>
           <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/RotateString.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>

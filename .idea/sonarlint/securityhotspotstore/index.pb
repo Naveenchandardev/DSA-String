@@ -28,3 +28,7 @@ Y
 )src/com/practice/string/RotateString.java,7\f\7fc5ba64d1c09369970e06cfa3b4db60de81ed05
 \
 ,src/com/practice/string/FindMissingChar.java,8\2\821ea71d092ab0673193c5bf76868de71461f463
+]
+-src/com/practice/pattern/CornerTriangles.java,f\3\f3b18fa50f207c3c75fe3741852da6cf1686a071
+^
+.src/com/practice/pattern/ButterflyPattern.java,a\8\a88c6c8a7b967692e92d8520c658bc3488181663
