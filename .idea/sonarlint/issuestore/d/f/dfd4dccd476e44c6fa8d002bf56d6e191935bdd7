@@ -1,10 +1,8 @@
 
-E
-java:S3740"/Provide the parametrized type for this generic.(‘ì˜
-Q	java:S125"<This block of commented-out lines of code should be removed.(˜Š’Ÿ
-n
-java:S2234"XParameters to output have the same names but not the same order as the method arguments.(ıå¾‹
-@	java:S106"+Replace this use of System.out by a logger.(ıÎ›ç
-@	java:S106"+Replace this use of System.out by a logger.(äŠ´
-9
-java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+k
+java:S3740"/Provide the parametrized type for this generic.(‘ì˜J$96907d03-036b-40fa-8f78-76d0701e0820
+w	java:S125"<This block of commented-out lines of code should be removed.(˜Š’ŸJ$51f40aeb-9b2a-46c4-b06a-4a671ebdfa19
+”
+java:S2234"XParameters to output have the same names but not the same order as the method arguments.(ıå¾‹J$2ab4d96d-c314-44b9-a80f-1622360ea04d
+_
+java:S1128"$Remove this unused import 'java.io'.(¬›ãDJ$a94ec8fd-6e32-4957-a83b-d46ecacecfa6
