@@ -52,7 +52,7 @@ public class CornerTriangles {
     private static void left_top_pattern(int a) {
         System.out.println("left_top_pattern");
         for (int i = 1; i <= a; i++) {
-            for (int j = a; i <= j; j--) {
+            for (int j = i; j <= a; j++) {
                 System.out.print("* ");
             }
             System.out.println();
