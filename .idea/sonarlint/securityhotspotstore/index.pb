@@ -40,3 +40,5 @@ Z
 ,src/com/practice/leetcode/ReverseString.java,0\f\0fbacddc9d03bacc88347122694ce4cecea1eb8e
 \
 ,src/com/practice/pattern/Basic_triangle.java,9\5\9514e6b9ad7c11c0a4d3e755c9d918cd9ebe37d7
+\
+,src/com/practice/leetcode/ReversePrefix.java,b\c\bc2504a73f66ee21dbe343b116191a83b4b2df55

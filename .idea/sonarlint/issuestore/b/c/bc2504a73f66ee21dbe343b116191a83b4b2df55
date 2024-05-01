@@ -1,0 +1,10 @@
+
+Œ
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ı¯êÆûÿÿÿÿ8ôõ‹œó1J$50690cd4-a24c-4d8c-bd87-ff9d796e2de9
+h
+java:S1659" Declare "ch" on a separate line.(²®Œàûÿÿÿÿ8æÑŠœó1J$8511bfa2-3db4-4572-b93a-2db2874b78fa
+l
+java:S1659
+"$Declare "result" on a separate line.(”…°ıûÿÿÿÿ8èÑŠœó1J$c14f871e-dc40-4437-9fb8-cd8dbeb80da6
+Â
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ı¯êÆûÿÿÿÿ8ö‹œó1J$d37269a1-5a9b-420e-873c-8c77d212f633
