@@ -1,7 +1,7 @@
 
-?
-java:S1659"$Declare "length" on a separate line.(ýå¸‡ùÿÿÿÿ
-F
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+e
+java:S1659"$Declare "length" on a separate line.(ýå¸‡ùÿÿÿÿJ$38e98414-1fbf-4a06-a23e-560353c847a4
+l
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒJ$56f6700b-d783-4636-b137-7e298ccfdccb
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$a4f4aba2-ceaa-4e7c-a316-a9c814cb1dc7
