@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00e95079b701bb6779fef2024e8950eabb5807b6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00e95079b701bb6779fef2024e8950eabb5807b6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/668755671c47eb8c6b73660a5c63e44333d000bf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/668755671c47eb8c6b73660a5c63e44333d000bf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/7577e860a17d4a2328e643d1b5cc4197ce244e80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/7577e860a17d4a2328e643d1b5cc4197ce244e80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa387702e9f2f3754a75c2804e766459f63472d7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa387702e9f2f3754a75c2804e766459f63472d7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdc3ed29b7ab283145e69c64e999bcf045ba4a26" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdc3ed29b7ab283145e69c64e999bcf045ba4a26" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/leetcode/Isomorphic_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/leetcode/Isomorphic_string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/LongestSubstring_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/LongestSubstring_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Pangram_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Pangram_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/leetcode/Isomorphic_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/leetcode/Isomorphic_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,20 +85,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="ConsecutiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.ConsecutiveSubstring" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverString2">
     <configuration name="Isomorphic_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.Isomorphic_string" />
       <module name="DSA-String" />
@@ -152,8 +125,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pangram_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Pangram_2" />
+    <configuration name="ReverString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverString2" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverseString" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverString2" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Isomorphic_string" />
         <item itemvalue="Application.LongestSubstring_3" />
-        <item itemvalue="Application.ConsecutiveSubstring" />
-        <item itemvalue="Application.Pangram_2" />
       </list>
     </recent_temporary>
   </component>
