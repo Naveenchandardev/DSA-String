@@ -2,7 +2,7 @@ package com.practice.string;
 
 import java.util.Arrays;
 
-public class ReverString2 {
+public class ReverseString2 {
     public static void main(String[] args) {
         String str = "naveen";
         char [] chars = str.toCharArray();

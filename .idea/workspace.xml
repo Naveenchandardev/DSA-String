@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f4c148726d5e5d0c5624684c6ae0c91c709fdb8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f4c148726d5e5d0c5624684c6ae0c91c709fdb8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8a750d7b3faeebb934b9d9a4551739472f7bbd4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8a750d7b3faeebb934b9d9a4551739472f7bbd4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfd4dccd476e44c6fa8d002bf56d6e191935bdd7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfd4dccd476e44c6fa8d002bf56d6e191935bdd7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea2dbb513680834c06e92214fa3d6e71d4338eea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/a/ea2dbb513680834c06e92214fa3d6e71d4338eea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +69,10 @@
     &quot;Application.Pangram_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RemoveStars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverString2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReversePrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
     &quot;Application.RomanToInteger.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
     &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
@@ -81,13 +92,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/DSA-Stream-Api-master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/DSA-String&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverString2">
-    <configuration name="Isomorphic_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.Isomorphic_string" />
+  <component name="RunManager" selected="Application.GroupAnagram">
+    <configuration name="ConsecutiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.ConsecutiveSubstring" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.GroupAnagram" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +125,6 @@
     </configuration>
     <configuration name="LongestSubstring_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring_3" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Palindrome" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupAnagram" />
+        <item itemvalue="Application.LongestSubstring_3" />
+        <item itemvalue="Application.ConsecutiveSubstring" />
         <item itemvalue="Application.ReverString2" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Isomorphic_string" />
-        <item itemvalue="Application.LongestSubstring_3" />
       </list>
     </recent_temporary>
   </component>
@@ -289,11 +300,6 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java</url>
           <line>8</line>
           <option name="timeStamp" value="46" />
@@ -302,6 +308,11 @@
           <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java</url>
           <line>14</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>

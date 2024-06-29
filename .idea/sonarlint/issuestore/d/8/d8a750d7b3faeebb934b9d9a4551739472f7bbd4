@@ -1,11 +1,11 @@
 
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä¤²æÿÿÿÿÿ
-u
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…ôß
-V	java:S125"<This block of commented-out lines of code should be removed.(ñæÙÊüÿÿÿÿ
-5
-java:S1659"Declare "b" on a separate line.(…ôß
-M
-java:S3972"7Move this "if" to a new line or add the missing "else".(à ÛÏ
-M
-java:S3972"7Move this "if" to a new line or add the missing "else".(€ÔÌƒ
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä¤²æÿÿÿÿÿJ$6d44ca03-d5bb-4fd9-9591-2d98c8b0d128
+›
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…ôßJ$a085b30a-d6a2-449d-b863-82b4182bc76f
+|	java:S125"<This block of commented-out lines of code should be removed.(ñæÙÊüÿÿÿÿJ$6f0a540c-c4c6-4994-b4b7-4ac0232b5d09
+[
+java:S1659"Declare "b" on a separate line.(…ôßJ$32107f70-b505-4515-bb3e-26ee9a9070f4
+s
+java:S3972"7Move this "if" to a new line or add the missing "else".(à ÛÏJ$836da58b-2acc-4948-b86f-f2b6b0b54343
+s
+java:S3972"7Move this "if" to a new line or add the missing "else".(€ÔÌƒJ$964a33f6-2a5c-4b14-8d9a-6427a27cdc73
