@@ -15,10 +15,7 @@ public class GroupAnagram {
             char[] chars = word.toCharArray();
             Arrays.sort(chars);
             String sortedWord = new String(chars);
-            if (!map.containsKey(sortedWord)) {
-                map.put(sortedWord, new ArrayList<>());
-            }
-            map.get(sortedWord).add(word);
+            map.computeIfAbsent(sortedWord, k -> new ArrayList<>()).add(word);
         }
         return new ArrayList<>(map.values());
     }
