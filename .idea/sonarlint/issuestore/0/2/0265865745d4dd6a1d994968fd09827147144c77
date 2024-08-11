@@ -1,0 +1,11 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(«Ô¼åşÿÿÿÿ8ÑæÀ”2J$6248d59e-3e71-4d01-bd98-9a90994fbb68
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·Å©ô8ÓæÀ”2J$2a3fdb09-b46d-4cc6-9a6a-25d374eca71e
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(«Ô¼åşÿÿÿÿ8çæÀ”2J$4190b0fb-d088-4389-b283-07bb79c039ba
+¡
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍœ
+8çæÀ”2J$0065ca30-cae9-42cb-9ba5-fa8e96c9bb3d
+n
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8îæÀ”2J$152b1fbb-a555-478b-832c-3333f597fbef

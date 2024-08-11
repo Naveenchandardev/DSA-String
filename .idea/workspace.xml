@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/SecondMax_Repeating_Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f4c148726d5e5d0c5624684c6ae0c91c709fdb8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffbd95e3ea4939f5e80d5dc5ad6c788c1ecbb22d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffbd95e3ea4939f5e80d5dc5ad6c788c1ecbb22d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/geeksforgeeks/Reverse_String_BY_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f4c148726d5e5d0c5624684c6ae0c91c709fdb8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +69,7 @@
     "Application.ReverseInteger.executor": "Run",
     "Application.ReversePrefix.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.Reverse_String_BY_Stack.executor": "Run",
     "Application.RomanToInteger.executor": "Debug",
     "Application.RotateString.executor": "Run",
     "Application.Rotation.executor": "Run",
@@ -97,7 +94,7 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SecondMax_Repeating_Character">
+  <component name="RunManager" selected="Application.Reverse_String_BY_Stack">
     <configuration name="ConsecutiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.ConsecutiveSubstring" />
       <module name="DSA-String" />
@@ -137,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverString2" />
+    <configuration name="Reverse_String_BY_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.geeksforgeeks.Reverse_String_BY_Stack" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.geeksforgeeks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_String_BY_Stack" />
         <item itemvalue="Application.SecondMax_Repeating_Character" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.LongestSubstring_3" />
         <item itemvalue="Application.ConsecutiveSubstring" />
-        <item itemvalue="Application.ReverString2" />
       </list>
     </recent_temporary>
   </component>
