@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26d0b64ac78fc479fef190bf2717b5e6d57875b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26d0b64ac78fc479fef190bf2717b5e6d57875b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,68 +31,68 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Alphabet_Check.executor": "Run",
-    "Application.Anagram.executor": "Run",
-    "Application.Anagram_short_method.executor": "Run",
-    "Application.Basic.executor": "Run",
-    "Application.Basic_triangle.executor": "Run",
-    "Application.BinaryCheck.executor": "Debug",
-    "Application.BinaryDigit.executor": "Debug",
-    "Application.CharacterCount.executor": "Run",
-    "Application.ConsecutiveSubstring.executor": "Debug",
-    "Application.CornerTriangles.executor": "Run",
-    "Application.Diamond.executor": "Run",
-    "Application.FindDay.executor": "Run",
-    "Application.FineDay.executor": "Run",
-    "Application.FirstNonRepeatingChar.executor": "Run",
-    "Application.GroupAnagram.executor": "Run",
-    "Application.HackerRank.executor": "Run",
-    "Application.HackerRank_2.executor": "Run",
-    "Application.InsertCharacter.executor": "Run",
-    "Application.Integer_To_Roman.executor": "Run",
-    "Application.Isomorphic_string.executor": "Run",
-    "Application.Large_Small_Substrings.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.LongestSubstring_2.executor": "Debug",
-    "Application.LongestSubstring_3.executor": "Debug",
-    "Application.Number_Patterns.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.Pangram.executor": "Run",
-    "Application.Pangram_2.executor": "Run",
-    "Application.PrimeNumber.executor": "Debug",
-    "Application.RemoveStars.executor": "Run",
-    "Application.ReverString2.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReversePrefix.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.Reverse_String_BY_Stack.executor": "Run",
-    "Application.RomanToInteger.executor": "Debug",
-    "Application.RotateString.executor": "Run",
-    "Application.Rotation.executor": "Run",
-    "Application.ScannerClass.executor": "Run",
-    "Application.SecondMax_Repeating_Character.executor": "Run",
-    "Application.Sorting.executor": "Run",
-    "Application.SubString.executor": "Run",
-    "Application.Swap_2_pointer.executor": "Run",
-    "Application.Triangles.executor": "Run",
-    "Application.UpperCase.executor": "Run",
-    "Application.ValidPranthesis.executor": "Run",
-    "Application.ZOHO_CountString.executor": "Run",
-    "Application.ZohoQuestion.executor": "Run",
-    "Application.Zoho_Interview_question.executor": "Debug",
-    "Application.findLength.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array",
-    "settings.editor.selected.configurable": "sonarlint"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Alphabet_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram_short_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryCheck.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BinaryDigit.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CharacterCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsecutiveSubstring.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CornerTriangles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FineDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HackerRank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HackerRank_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Integer_To_Roman.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Isomorphic_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Large_Small_Substrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LongestSubstring_3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Number_Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pangram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pangram_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveStars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverString2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_String_BY_Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanToInteger.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RotateString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMax_Repeating_Character.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap_2_pointer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPranthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZOHO_CountString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZohoQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zoho_Interview_question.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.findLength.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/DSA-Collection&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ReverseInteger">
+}</component>
+  <component name="RunManager" selected="Application.LargestOddNumber">
     <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.GroupAnagram" />
       <module name="DSA-String" />
@@ -110,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstring_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring_3" />
+    <configuration name="LargestOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LargestOddNumber" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestOddNumber" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.Reverse_String_BY_Stack" />
         <item itemvalue="Application.SecondMax_Repeating_Character" />
         <item itemvalue="Application.GroupAnagram" />
-        <item itemvalue="Application.LongestSubstring_3" />
       </list>
     </recent_temporary>
   </component>
