@@ -91,13 +91,13 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LargestOddNumber">
-    <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.GroupAnagram" />
+  <component name="RunManager" selected="Application.IsomorphicStrings">
+    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicStrings" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
+          <option name="PATTERN" value="com.practice.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsomorphicStrings" />
         <item itemvalue="Application.LargestOddNumber" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.Reverse_String_BY_Stack" />
         <item itemvalue="Application.SecondMax_Repeating_Character" />
-        <item itemvalue="Application.GroupAnagram" />
       </list>
     </recent_temporary>
   </component>
