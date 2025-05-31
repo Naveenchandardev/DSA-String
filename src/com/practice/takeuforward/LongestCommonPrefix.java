@@ -16,6 +16,23 @@ public class LongestCommonPrefix {
         String[] words1 = {"flower", "flow", "flight"};
         String[] words2 = {"dog", "racecar", "car"};
         System.out.println("Longest Common Prefix: " + longestCommonPrefix(words1));
-        System.out.println("Longest Common Prefix: " + longestCommonPrefix(words2));
+        System.out.println("Longest Common Prefix: " + longestCommonPrefixLogic2(words2));
+    }
+
+    private static String longestCommonPrefixLogic2(String[] strs) {
+        StringBuilder output = new StringBuilder();
+        int lenght = Math.min(strs[0].length(), strs[1].length());
+        lenght = Math.min(lenght, strs[2].length());
+        for(int i=0;i<lenght;i++){
+            char a = strs[0].charAt(i);
+            char b = strs[1].charAt(i);
+            char c = strs[2].charAt(i);
+            if(a==b && b==c){
+                output.append(strs[0].charAt(i));
+            }
+        }
+
+        System.out.println(output);
+        return output.toString();
     }
 }

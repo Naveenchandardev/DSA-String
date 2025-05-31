@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +54,10 @@
     "Application.HackerRank_2.executor": "Run",
     "Application.InsertCharacter.executor": "Run",
     "Application.Integer_To_Roman.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Debug",
     "Application.Isomorphic_string.executor": "Run",
     "Application.Large_Small_Substrings.executor": "Run",
-    "Application.LargestOddNumber.executor": "Run",
+    "Application.LargestOddNumber.executor": "Debug",
     "Application.LongestSubstring.executor": "Run",
     "Application.LongestSubstring_2.executor": "Debug",
     "Application.LongestSubstring_3.executor": "Debug",
@@ -87,11 +92,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String",
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Test",
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IsomorphicStrings">
+  <component name="RunManager" selected="Application.LargestOddNumber">
     <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicStrings" />
       <module name="DSA-String" />
@@ -159,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsomorphicStrings" />
         <item itemvalue="Application.LargestOddNumber" />
+        <item itemvalue="Application.IsomorphicStrings" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.Reverse_String_BY_Stack" />
         <item itemvalue="Application.SecondMax_Repeating_Character" />
@@ -308,6 +313,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
           <line>14</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/takeuforward/IsomorphicStrings.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/takeuforward/LargestOddNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
