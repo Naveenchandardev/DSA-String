@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/MobileNumberCombo_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AnagramCheck">
+  <component name="RunManager" selected="Application.MobileNumberCombo_2">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.AnagramCheck" />
       <module name="DSA-String" />
@@ -148,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.ReverseInteger" />
+    <configuration name="MobileNumberCombo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.MobileNumberCombo_2" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobileNumberCombo_2" />
         <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.LargestOddNumber" />
         <item itemvalue="Application.IsomorphicStrings" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
