@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/leetcode/MobileNumberCombo_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/leetcode/MobileNumberCombo_2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
   "keyToString": {
     "Application.Alphabet_Check.executor": "Run",
     "Application.Anagram.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
     "Application.Anagram_short_method.executor": "Run",
     "Application.Basic.executor": "Run",
     "Application.Basic_triangle.executor": "Run",
@@ -59,6 +61,8 @@
     "Application.LongestSubstring.executor": "Run",
     "Application.LongestSubstring_2.executor": "Debug",
     "Application.LongestSubstring_3.executor": "Debug",
+    "Application.MobileNumberCombo.executor": "Run",
+    "Application.MobileNumberCombo_2.executor": "Run",
     "Application.Number_Patterns.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Pangram.executor": "Run",
@@ -95,7 +99,7 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MobileNumberCombo_2">
+  <component name="RunManager" selected="Application.MobileNumberCombo">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.AnagramCheck" />
       <module name="DSA-String" />
@@ -122,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicStrings" />
+    <configuration name="LargestOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LargestOddNumber" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -135,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LargestOddNumber" />
+    <configuration name="MobileNumberCombo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.MobileNumberCombo" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
+          <option name="PATTERN" value="com.practice.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobileNumberCombo" />
         <item itemvalue="Application.MobileNumberCombo_2" />
         <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.LargestOddNumber" />
-        <item itemvalue="Application.IsomorphicStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +323,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
           <line>3</line>
-          <properties class="com.practice.pattern.CornerTriangles">
+          <properties class="com.practice.pattern.CornerTriangles" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -328,7 +332,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
           <line>3</line>
-          <properties class="com.practice.pattern.Triangles">
+          <properties class="com.practice.pattern.Triangles" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
