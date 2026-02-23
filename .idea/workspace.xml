@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/leetcode/MobileNumberCombo_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/LongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,8 @@
     "Application.LargestOddNumber.executor": "Debug",
     "Application.LongestSubstring.executor": "Run",
     "Application.LongestSubstring_2.executor": "Debug",
-    "Application.LongestSubstring_3.executor": "Debug",
+    "Application.LongestSubstring_3.executor": "Run",
+    "Application.Longest_Substring_Without_Repeating_characters.executor": "Run",
     "Application.MobileNumberCombo.executor": "Run",
     "Application.MobileNumberCombo_2.executor": "Run",
     "Application.Number_Patterns.executor": "Run",
@@ -99,20 +103,7 @@
     "settings.editor.selected.configurable": "sonarlint"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MobileNumberCombo">
-    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.AnagramCheck" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Longest_Palindrome">
     <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.GroupAnagram" />
       <module name="DSA-String" />
@@ -126,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LargestOddNumber" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileNumberCombo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.MobileNumberCombo" />
+    <configuration name="LongestSubstring_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.LongestSubstring_3" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +143,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileNumberCombo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.MobileNumberCombo_2" />
+    <configuration name="Longest_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Palindrome" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.leetcode.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Substring_Without_Repeating_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Substring_Without_Repeating_characters" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MobileNumberCombo" />
-        <item itemvalue="Application.MobileNumberCombo_2" />
-        <item itemvalue="Application.AnagramCheck" />
+        <item itemvalue="Application.Longest_Palindrome" />
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters" />
+        <item itemvalue="Application.LongestSubstring_3" />
+        <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.GroupAnagram" />
-        <item itemvalue="Application.LargestOddNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -196,150 +200,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/PrimeNumber.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/PrimeNumber.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/HackerRank.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ZohoQuestion.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ZOHO_CountString.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Integer_To_Roman.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/RomanToInteger.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/ConsecutiveSubstring.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/takeuforward/IsomorphicStrings.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/takeuforward/LargestOddNumber.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/CornerTriangles.java</url>
-          <line>3</line>
-          <properties class="com.practice.pattern.CornerTriangles" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/practice/pattern/Triangles.java</url>
-          <line>3</line>
-          <properties class="com.practice.pattern.Triangles" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA_String$FineDay.ic" NAME="FineDay Coverage Results" MODIFIED="1710049679018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
