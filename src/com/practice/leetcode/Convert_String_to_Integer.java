@@ -1,13 +1,13 @@
 package com.practice.leetcode;
 
-public class Atoi {
-//String to integer: https://leetcode.com/problems/string-to-integer-atoi
+public class Convert_String_to_Integer {
+    //String to integer: https://leetcode.com/problems/string-to-integer-atoi
     public static void main(String[] args) {
         String a="-042";
-        System.out.println(solutionss(a));
+        System.out.println(result(a));
     }
 
-    private static int solutionss(String s) {
+    private static int result(String s) {
         if (s == null || s.isEmpty()) return 0;
         int i = 0;
         int n = s.length();

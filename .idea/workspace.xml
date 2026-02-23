@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/LongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/string/LongestSubstring_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +58,7 @@
     "Application.LongestSubstring.executor": "Run",
     "Application.LongestSubstring_2.executor": "Debug",
     "Application.LongestSubstring_3.executor": "Run",
+    "Application.Longest_Palindrome.executor": "Run",
     "Application.Longest_Substring_Without_Repeating_characters.executor": "Run",
     "Application.MobileNumberCombo.executor": "Run",
     "Application.MobileNumberCombo_2.executor": "Run",
