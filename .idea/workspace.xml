@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/leetcode/Atoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/takeuforward/IsomorphicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/takeuforward/IsomorphicStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +87,7 @@
     &quot;Application.Swap_2_pointer.executor&quot;: &quot;Run&quot;,
     &quot;Application.Triangles.executor&quot;: &quot;Run&quot;,
     &quot;Application.UpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValidPranthesis.executor&quot;: &quot;Run&quot;,
     &quot;Application.ZOHO_CountString.executor&quot;: &quot;Run&quot;,
     &quot;Application.ZohoQuestion.executor&quot;: &quot;Run&quot;,
@@ -102,7 +103,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidNumber">
+  <component name="RunManager" selected="Application.IsomorphicStrings">
     <configuration name="ConsecutiveSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.string.ConsecutiveSubstring" />
       <module name="DSA-String" />
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Palindrome" />
+    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicStrings" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="PATTERN" value="com.practice.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsomorphicStrings" />
         <item itemvalue="Application.ValidNumber" />
         <item itemvalue="Application.Number_Patterns" />
         <item itemvalue="Application.ConsecutiveSubstring" />
         <item itemvalue="Application.FindMissingChar" />
-        <item itemvalue="Application.Longest_Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +200,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/takeuforward/IsomorphicStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA_String$FineDay.ic" NAME="FineDay Coverage Results" MODIFIED="1710049679018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
