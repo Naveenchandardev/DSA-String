@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/Split_Integer_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/geeksforgeeks/FindDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/geeksforgeeks/FindDay.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/leetcode/Isomorphic_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/leetcode/Isomorphic_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Longest_Substring_Without_Repeating_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Longest_Substring_Without_Repeating_characters.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,7 @@
     &quot;Application.FineDay.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstNonRepeatingChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.GroupAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Group_Anagram_2.executor&quot;: &quot;Debug&quot;,
     &quot;Application.HackerRank.executor&quot;: &quot;Run&quot;,
     &quot;Application.HackerRank_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.InsertCharacter.executor&quot;: &quot;Run&quot;,
@@ -65,7 +69,9 @@
     &quot;Application.LongestSubstring_2.executor&quot;: &quot;Debug&quot;,
     &quot;Application.LongestSubstring_3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Longest_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Substring_Without_Repeating_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Substring_Without_Repeating_characters.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Longest_Substring_Without_Repeating_characters_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Longest_Substring_Without_Repeating_characters_3.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MobileNumberCombo.executor&quot;: &quot;Run&quot;,
     &quot;Application.MobileNumberCombo_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Number_Patterns.executor&quot;: &quot;Run&quot;,
@@ -105,13 +111,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Isomorphic_string">
-    <configuration name="IsomorphicString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicString2" />
+  <component name="RunManager" selected="Application.FindDay">
+    <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.geeksforgeeks.FindDay" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
+          <option name="PATTERN" value="com.practice.geeksforgeeks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,21 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.IsomorphicStrings" />
-      <module name="DSA-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Isomorphic_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.Isomorphic_string" />
+    <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.leetcode.GroupAnagram" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LargestOddNumber" />
+    <configuration name="Longest_Substring_Without_Repeating_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Substring_Without_Repeating_characters" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +151,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.takeuforward.LongestCommonPrefix" />
+    <configuration name="Longest_Substring_Without_Repeating_characters_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Substring_Without_Repeating_characters_2" />
       <module name="DSA-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.takeuforward.*" />
+          <option name="PATTERN" value="com.practice.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Substring_Without_Repeating_characters_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.string.Longest_Substring_Without_Repeating_characters_3" />
+      <module name="DSA-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Isomorphic_string" />
-        <item itemvalue="Application.LargestOddNumber" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.IsomorphicString2" />
-        <item itemvalue="Application.IsomorphicStrings" />
+        <item itemvalue="Application.FindDay" />
+        <item itemvalue="Application.GroupAnagram" />
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters_2" />
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters_3" />
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +221,26 @@
           <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Isomorphic_string.java</url>
           <line>14</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Group_Anagram_2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/leetcode/Group_Anagram_2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
