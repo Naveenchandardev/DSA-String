@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f271f74-dac4-437b-9564-407fc8308ab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/geeksforgeeks/FindDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/geeksforgeeks/FindDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Longest_Substring_Without_Repeating_characters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-String/com/practice/string/Longest_Substring_Without_Repeating_characters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/string/Longest_Substring_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;sonarlint&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindDay">
+  <component name="RunManager" selected="Application.Longest_Substring_Without_Repeating_characters">
     <configuration name="FindDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.geeksforgeeks.FindDay" />
       <module name="DSA-String" />
@@ -175,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters" />
         <item itemvalue="Application.FindDay" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_characters_2" />
         <item itemvalue="Application.Longest_Substring_Without_Repeating_characters_3" />
-        <item itemvalue="Application.Longest_Substring_Without_Repeating_characters" />
       </list>
     </recent_temporary>
   </component>
@@ -229,14 +235,19 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_2.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_2.java</url>
           <line>17</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_Without_Repeating_characters_3.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_3.java</url>
           <line>6</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/string/Longest_Substring_1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

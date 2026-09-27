@@ -3,7 +3,7 @@ package com.practice.string;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Longest_Substring_Without_Repeating_characters {
+public class Longest_Substring_1 {
     public static void main(String[] args) {
         String a ="ASDCSEFDHGYHJYT";String length="";
         String output ="";

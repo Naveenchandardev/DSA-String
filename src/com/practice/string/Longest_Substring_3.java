@@ -1,6 +1,6 @@
 package com.practice.string;
 
-public class Longest_Substring_Without_Repeating_characters_3 {
+public class Longest_Substring_3 {
     public static void main(String[] args) {
         String s = "aaaaaba";
         String longestSubstring = "";
