@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Longest_Substring_4 {
     public static void main(String[] args) {
-        String input = "";
+        String input = "abcdebabcbb";
         String output = longestWithoutRepeating(input);
         System.out.println(output);
     }
