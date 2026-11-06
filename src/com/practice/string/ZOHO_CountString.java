@@ -2,7 +2,7 @@ package com.practice.string;
 
 public class ZOHO_CountString {
     public static void main(String[] args) {
-        String input = "AAABAACDDEE";
+        String input = "ABC";
         //output: A3B1A2C1D2E2
         String output = getCountString(input);
         System.out.println(output);

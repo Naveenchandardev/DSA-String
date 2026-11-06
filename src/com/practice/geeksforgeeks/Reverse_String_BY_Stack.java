@@ -11,7 +11,7 @@ public class Reverse_String_BY_Stack {
     }
 
     private static String solution(String input) {
-        Stack st = new Stack<>();
+        Stack<Object> st = new Stack<>();
         StringBuffer res= new StringBuffer();
         int i=0;
         for(Character ch: input.toCharArray()){

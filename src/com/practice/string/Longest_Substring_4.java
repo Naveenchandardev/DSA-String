@@ -5,27 +5,27 @@ import java.util.Set;
 
 public class Longest_Substring_4 {
     public static void main(String[] args) {
-        String input = "abcdebabcbb";
-        String output = longestWithoutRepeating(input);
-        System.out.println(output);
+        String input = "chandar";
+        longestWithoutRepeating(input);
     }
 
-    private static String longestWithoutRepeating(String str)  {
+    private static void longestWithoutRepeating(String s)  {
         Set<Character> set = new HashSet<>();
         int left = 0;
-        String longest = "";
-        for (int right = 0; right < str.length(); right++) {
-            char ch = str.charAt(right);
-            while (set.contains(ch)) {
-                set.remove(str.charAt(left));
+        int maxLength = 0;
+        String longestSubstring = "";
+        for (int right = 0; right < s.length(); right++) {
+            while (set.contains(s.charAt(right))) {
+                set.remove(s.charAt(left));
                 left++;
             }
-            set.add(ch);
-            String current = str.substring(left, right + 1);
-            if (current.length() > longest.length()) {
-                longest = current;
+            set.add(s.charAt(right));
+            if (right - left + 1 > maxLength) {
+                maxLength = right - left + 1;
+                longestSubstring = s.substring(left, right + 1);
             }
         }
-        return longest;
+        System.out.println("Longest substring: " + longestSubstring);
+        System.out.println("Length: " + maxLength);
     }
 }
